@@ -1,4 +1,4 @@
-# Social Links Profile Hub
+# Social Links Profile Page
 
 - Project from Frontend Mentor, Level #1 (Newbie)
 
